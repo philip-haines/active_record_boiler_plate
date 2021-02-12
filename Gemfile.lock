@@ -46,12 +46,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord (~> 6.0)
-  pry (~> 0.12.2)
-  rake (~> 13.0)
-  require_all (~> 3.0)
-  sinatra-activerecord (~> 2.0)
-  sqlite3 (~> 1.4)
+  activerecord
+  pry
+  rake
+  require_all
+  sinatra-activerecord
+  sqlite3
 
 BUNDLED WITH
    2.0.2
